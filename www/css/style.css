@@ -1,1 +1,39 @@
-/* Empty. Add your own CSS if you like */
+.stil1{
+    background-image:url(http://cultivos-tradicionales.com/upload/image/cultivo_organico.bmp);
+    background-size:cover;
+    background-repeat:no-repeat;
+    color:white;
+    
+    
+}
+
+.Titulo12
+{
+    text-align:center;
+     margin: 0 0 35px;
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight:700;
+    letter-spacing: 1px;
+    text-shadow: -2px -2px 1px #000;
+    color:#0AA20A;
+    padding-top:100px;
+    position:center;
+}
+.helo3{
+   
+    text-align:center;
+    background-image:url(http://static.iris.net.co/dinero/upload/images/2014/12/24/204446_111338_1.jpg);
+     background-repeat: no-repeat;
+     background-size:cover;
+    box-shadow:20px 20px 10px #888888;
+     
+     
+}
+.chart1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: auto;
+}
